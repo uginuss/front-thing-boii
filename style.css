@@ -60,6 +60,7 @@ main {
 }
 
 .jokes_container {
+    margin-top: 5vh;
     flex: 1;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
